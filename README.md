@@ -12,6 +12,7 @@
 
 + react-form-hooks
 + react-router-dom
++ axios
 
 ## Rodando a Aplicação
 
