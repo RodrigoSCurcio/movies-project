@@ -1,4 +1,4 @@
-![movies-project](https://user-images.githubusercontent.com/59969422/166827977-8512af12-2803-43f4-b9f9-ab24f9146f2f.PNG)
+![Movies-project](https://user-images.githubusercontent.com/59969422/224164324-86ac269b-f2cf-4c2d-a965-14c6257accd0.PNG)
 
 > Status: Finalizado ✔️
 
