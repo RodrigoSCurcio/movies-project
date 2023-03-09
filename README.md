@@ -8,6 +8,11 @@
 
 + react
 
+## Bibliotecas
+
++ react-form-hooks
++ react-router-dom
+
 ## Rodando a Aplicação
 
 1) Vá até a pasta do projeto usando o terminal de sua preferencia
