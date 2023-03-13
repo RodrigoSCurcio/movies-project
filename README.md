@@ -7,9 +7,6 @@
 ## Tecnologias Usadas
 
 + react
-
-## Bibliotecas
-
 + react-form-hooks
 + react-router-dom
 + axios
